@@ -8,5 +8,6 @@ namespace testconsole
 {
     class Class1
     {
+        //a change
     }
 }
