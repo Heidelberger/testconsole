@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace testconsole
 {
-    class Program
+    class Class2
     {
-        static void Main(string[] args)
-        {
-            //testbranch
-            //test2
-            //test3
-        }
     }
 }
